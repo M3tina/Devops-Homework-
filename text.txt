@@ -1,2 +1,1 @@
-text file for my devops homework
-
+This is a sample text file.
